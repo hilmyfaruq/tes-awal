@@ -72,3 +72,5 @@ class Mahasiswa extends CI_Controller {
 	}
 }
 HAI FERDI
+	
+WOOIIII INI GUA HILMY UDH BISA BELOM
