@@ -71,4 +71,3 @@ class Mahasiswa extends CI_Controller {
         redirect('mahasiswa/lihat_daftar');
 	}
 }
-HAI FERDI
